@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/dalmasiof"><a/>
-  <img align="right" height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalmasiof&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img align="right" height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsg01&layout=compact&langs_count=7&theme=highcontrast"/>
 
   <div width="20" align="left">
 
