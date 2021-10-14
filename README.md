@@ -36,6 +36,7 @@
   <br>
   <br>
   <img align="center" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </p>
 
 
