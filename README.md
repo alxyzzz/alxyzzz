@@ -17,4 +17,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on full stack development
-<br>and my passions are Flutter, .NET, NodeJS, Electron
+<br>and my passions are Flutter, .NET and NodeJS.
+
+- 🌱 I’m currently learning Electron, ReactJS,
+<br>NextJS, Docker and MongoDB.
