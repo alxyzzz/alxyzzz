@@ -1,6 +1,8 @@
 ### Hmm hello ✌
 ##
 
+<br>
+<br>
 <img align="right" width="400" style src="https://raw.githubusercontent.com/laynH/Anime-Girls-Holding-Programming-Books/master/C%2B%2B/Sakura_Nene_CPP.jpg">
 <div align="left" width="20">
 - 🔭 I’m currently working on full stack development
