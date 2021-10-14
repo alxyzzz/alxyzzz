@@ -8,3 +8,5 @@
 <br>NextJS, Docker and MongoDB.
 
 - 🤖 I plan to study BigData soon.
+
+<img src"https://raw.githubusercontent.com/laynH/Anime-Girls-Holding-Programming-Books/master/C%2B%2B/Sakura_Nene_CPP.jpg">
