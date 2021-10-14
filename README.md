@@ -9,4 +9,4 @@
 
 - 🤖 I plan to study BigData soon.
 
-<img width="400" style src="https://raw.githubusercontent.com/laynH/Anime-Girls-Holding-Programming-Books/master/C%2B%2B/Sakura_Nene_CPP.jpg">
+<img align="right" width="400" style src="https://raw.githubusercontent.com/laynH/Anime-Girls-Holding-Programming-Books/master/C%2B%2B/Sakura_Nene_CPP.jpg">
