@@ -15,5 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<a href="https://github.com/dalmasiof"><a/>
+  <img align="right" height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalmasiof&layout=compact&langs_count=7&theme=highcontrast"/>
+
+  <div width="20" align="left">
+
 - 🔭 I’m currently working on full stack development
 <br>and my passions are Flutter, .NET, NodeJS, Electron
