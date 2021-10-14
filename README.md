@@ -1,7 +1,7 @@
 ### Hmm hello ✌
 ##
 
-<div align="left">
+<div align="left" width="20">
 - 🔭 I’m currently working on full stack development
 <br>and my passions are Flutter, .NET and NodeJS.
 
