@@ -15,7 +15,7 @@
   
 - 🏚 Brazil, São Paulo - SP.
   </div>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsg01&layout=compact)](https://github.com/alexsg01/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsg01&layout=compact)]
 
   <br>
   
