@@ -16,7 +16,7 @@
 - 🏚 Brazil, São Paulo - SP.
   </div>
   <br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayashi-fontes&layout=compact)](https://github.com/hayashi-fontes/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayashi-fontes&layout=compact)](https://github.com/hayashi-fontes/github-readme-stats)
 
   
 ##
