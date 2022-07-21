@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning Electron, ReactJS,
 <br>NextJS, Docker, Elixir and MongoDB.
 
-- 🤖 I plan to study BigData soon.
+- 🤖 I plan to study BigData and IA soon.
   
 - 🏚 Brazil, São Paulo - SP.
   </div>
