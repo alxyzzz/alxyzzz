@@ -9,7 +9,7 @@
 <br>and my passions are Flutter, .NET and NodeJS.
 
 - 🌱 I’m currently learning Electron, ReactJS,
-<br>NextJS, Docker and MongoDB.
+<br>NextJS, Docker, Elixir and MongoDB.
 
 - 🤖 I plan to study BigData soon.
   
@@ -36,4 +36,5 @@
     <img align="center" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> 
 <img align="center" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg">
 </p>
