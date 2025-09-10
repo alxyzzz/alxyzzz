@@ -6,12 +6,10 @@
 <div align="left" width="20">
   
 - 🔭 I’m currently working on full stack development
-<br>and my passions are Flutter, .NET and NodeJS.
+<br>and my passions are Flutter, React, Go.
 
-- 🌱 I’m currently learning Electron, ReactJS,
-<br>NextJS, Docker, Elixir and MongoDB.
-
-- 🤖 I plan to study BigData and IA soon.
+- 🌱 I’m currently learning Electron, NextJS,
+<br>Go, Docker, Node.
   
 - 🏚 Brazil, São Paulo - SP.
   </div>
